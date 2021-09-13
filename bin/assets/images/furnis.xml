@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="furnis.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pcondesk.png" x="0" y="0" width="628" height="633"/>
+	<SubTexture name="pcondesklit.png" x="0" y="633" width="628" height="633"/>
+	<SubTexture name="poweroff.png" x="628" y="633" width="120" height="120"/>
+	<SubTexture name="poweron.png" x="748" y="633" width="120" height="120"/>
+</TextureAtlas>
