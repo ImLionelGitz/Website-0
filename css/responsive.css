@@ -36,9 +36,14 @@
     margin-top: 45px;
   }
 
-  .form-sh {
-    position: relative;
-    left: 0px;
+  .template4 .demo_box strong {
+    font-size: 105px;
+  }
+  .template4 .demo_box h2 {
+    font-size: 143px;
+  }
+  .template4 .demo_box h1 {
+    font-size: 36px;
   }
 
   .about_section {
@@ -52,6 +57,23 @@
   .about_section .detail-box,
   .contact_section .map_container {
     margin-top: 45px;
+  }
+
+  .banner {
+    height: 169px;
+  }
+  .creative h1 {
+    font-size: 35px;
+    line-height: 48px;
+  }
+  .template1 .creative h1 span {
+    font-size: 35px;
+  }
+  .template3 .creative h1 {
+    font-size: 61px;
+  }
+  .template4 .read_more {
+    margin-bottom: 30px;
   }
 
 }
@@ -73,6 +95,28 @@
 
   .hero_area .hero-bg {
     height: 200px;
+  }
+
+  .banner {
+    height: 169px;
+  }
+  .mobile_section {
+    padding-top: 45px;
+  }
+  .demo_box {
+    margin-top: 50px;
+  }
+  .template4 .read_more {
+    margin-bottom: 30px;
+  }
+  .template4 .demo_box strong {
+    font-size: 105px;
+  }
+  .template4 .demo_box h2 {
+    font-size: 143px;
+  }
+  .template4 .demo_box h1 {
+    font-size: 36px;
   }
 }
 
