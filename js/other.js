@@ -3,3 +3,9 @@ window.onmessage = function(event){
         window.location.href = '/';
     }
 }
+window.onload = function(){
+    logo.style.animation = 'none';
+    setTimeout(() => {
+        $('#loadermain').fadeOut();
+    }, 1000);
+}
