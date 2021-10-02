@@ -1,3 +1,6 @@
+var logo = document.getElementById('logoLoading');
+var mainLoader = document.getElementById('loadermain');
+
 window.onmessage = function(event){
     if(event.data == 'change'){
         window.location.href = '/';
